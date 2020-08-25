@@ -17,8 +17,6 @@ class backend():
             mixer.music.load(self.filename[0])
             mixer.music.set_volume(0.3)
             mixer.music.play()
-            audio = MP3(self.filename[0])
-            print(audio.info.length)
         except:
             pass
 
