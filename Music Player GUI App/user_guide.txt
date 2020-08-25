@@ -1,0 +1,27 @@
+Welcome to the Music Player app.
+Here you will find a tutorial on how to use the app.
+
+Important note: Wherever you see a "Close" button, make sure you hit it after you've completed a task.
+
+Opening a file:
+    To play songs directly from your PC you'll need to press the "Open a File From Your PC" button
+        and then choose the song you'd like to listen to.
+    If you wish to play songs from a playlist you'll need to press the "Open a File From a Playlist" button
+        and then enter your user name and playlist name, hit the "Select Song" button and ennjoy your music.
+
+Managing Playlists:
+    To create a playlist you'll need to press the "Create a Playlist" button, specify your user name and playlist name.
+    To add or delete songs from a playlist you'll need to press the "Edit a Playlist" button:
+        Adding songs:
+            Specify your user name and playlist name and then press the "Add" button and choose the song(s) you want to add.
+        Deleting songs:
+            Specify your user name and playlist name and then press the "Choose song to delete" button, click on the song you want
+                to delete and then hit the "Delete" button.
+    To delete a Playlist you'll need to specify your user name and playlist name and then press the "Delete" button.
+    To view your playlists you'll need to specify your user name and then press the "View" button.
+
+User Guide:
+    Press the "User Guide" button to review the User Guide.
+
+Exiting the App:
+    Press on the "Exit" Button.
