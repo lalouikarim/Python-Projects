@@ -64,11 +64,14 @@ def automate():
             keyboard.release(Key.f12)
 
             # File Explorer
-            # open the file explorer in the project's folder
+            # open the file explorer in the project's parent folder
             subproc = subprocess.Popen(r'explorer /select,"C:\xampp\htdocs\"' + project_folder.get())
             # wait till file explorer is fully loaded to proceed
             while current_window_name() != "explorer.exe":
                 pass
+            # open the project's folder
+            keyboard.press(Key.enter)
+            keyboard.release(Key.enter)
 
             # VS Code
             # open vs code in the project's folder (simulate a right click and then press "i" to trigger "Open with Code")
